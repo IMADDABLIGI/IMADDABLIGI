@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Imad 👋</h1>
 
-I'm a passionate computer science student at [Your School] pursuing a degree in Network Computer Science. 🎓
+I'm a passionate computer science student at 1337 Coding School pursuing a degree in Network Computer Science. 🎓
 
 🚀 Currently, I'm diving deep into various aspects of computer science, including:
 
@@ -15,8 +15,6 @@ I'm a passionate computer science student at [Your School] pursuing a degree in 
 🌟 My aspiration is to become a **Frontend Developer**. I believe in the power of elegant and user-friendly interfaces, and I'm excited to craft delightful web experiences.
 
 🌐 Feel free to explore my repositories and projects to see what I'm currently working on.
-
-📫 You can reach me at imaddabligi@gmail.com or connect with me on https://www.linkedin.com/in/imad-dabligi-015071236/ if you'd like to collaborate or chat about tech and development. I'm always open to exciting opportunities and discussions.
 
 Let's code, innovate, and make the digital world a better place together! 👩‍💻👨‍💻
 
