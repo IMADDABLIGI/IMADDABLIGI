@@ -12,8 +12,9 @@ I'm a passionate computer science student at 1337 Coding School pursuing a degre
 
 Let's code, innovate, and make the digital world a better place together! 👩‍💻👨‍💻
 
+---
 <div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/idabligi" alt="idabligi's 42 stats" /></a></div>
-
+---
 <p align="center">
     <a href="https://twitter.com/dabligi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/imad-dabligi-015071236/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
