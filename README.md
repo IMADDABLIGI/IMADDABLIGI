@@ -21,9 +21,17 @@ Let's code, innovate, and make the digital world a better place together! 👩�
     <a href="https://www.instagram.com/imaddabligi/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IMADDABLIGI&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="IMADDABLIGI" /></p>
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=IMADDABLIGI&show_icons=true&theme=synthwave&locale=en" alt="IMADDABLIGI" /></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IMADDABLIGI&theme=algolia&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IMADDABLIGI&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IMADDABLIGI&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=IMADDABLIGI&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **IMADDABLIGI/IMADDABLIGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
