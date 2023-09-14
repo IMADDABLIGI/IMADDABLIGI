@@ -21,6 +21,9 @@ Let's code, innovate, and make the digital world a better place together! 👩�
     <a href="https://www.instagram.com/imaddabligi/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IMADDABLIGI&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="IMADDABLIGI" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=IMADDABLIGI&show_icons=true&theme=synthwave&locale=en" alt="IMADDABLIGI" /></p>
+
 <!--
 **IMADDABLIGI/IMADDABLIGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
