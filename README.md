@@ -22,7 +22,6 @@ Let's code, innovate, and make the digital world a better place together! 👩�
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IMADDABLIGI&theme=algolia&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IMADDABLIGI&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IMADDABLIGI&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
