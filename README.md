@@ -2,13 +2,7 @@
 
 I'm a passionate computer science student at 1337 Coding School pursuing a degree in Network Computer Science. 🎓
 
-🚀 Currently, I'm diving deep into various aspects of computer science, including:
-
-- **Programming Languages:** Proficient in C and C++.
-- **Shell Scripting:** Crafting efficient and powerful shell scripts.
-- **Networking:** Exploring the intricacies of network protocols and configurations.
-- **Graphics:** Venturing into the creative world of computer graphics.
-- **Algorithms:** Delving into algorithm design and optimization.
+🚀 Currently exploring programming (C/C++), shell scripting, networking, graphics, and algorithms.
 
 📚 I'm constantly enhancing my skills through hands-on experience and coursework provided by the renowned 42 Network. This immersive learning environment challenges me to solve real-world problems, collaborate with peers, and think critically.
 
