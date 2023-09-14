@@ -12,7 +12,6 @@ I'm a passionate computer science student at 1337 Coding School pursuing a degre
 
 Let's code, innovate, and make the digital world a better place together! 👩‍💻👨‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idabligi&label=Profile%20views&color=0e75b6&style=flat" alt="idabligi" /> </p>
 <div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/idabligi" alt="idabligi's 42 stats" /></a></div>
 
 <p align="center">
@@ -21,8 +20,6 @@ Let's code, innovate, and make the digital world a better place together! 👩�
     <a href="https://www.instagram.com/imaddabligi/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IMADDABLIGI&theme=algolia&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IMADDABLIGI&theme=algolia&hide_border=true)<br/>
