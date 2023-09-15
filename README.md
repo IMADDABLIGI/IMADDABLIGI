@@ -13,7 +13,6 @@ I'm a passionate computer science student at 1337 Coding School pursuing a degre
 Let's code, innovate, and make the digital world a better place together! 👩‍💻👨‍💻
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IMADDABLIGI&icon=2&color=1)](https://visitcount.itsvg.in)
 <div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/idabligi" alt="idabligi's 42 stats" /></a></div>
 
 <p align="center">
@@ -26,7 +25,8 @@ Let's code, innovate, and make the digital world a better place together! 👩�
 ![](https://github-readme-stats.vercel.app/api?username=IMADDABLIGI&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IMADDABLIGI&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=IMADDABLIGI&icon=2&color=1)](https://visitcount.itsvg.in)
 <!--
 **IMADDABLIGI/IMADDABLIGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
