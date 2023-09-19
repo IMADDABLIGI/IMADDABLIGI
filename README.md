@@ -13,6 +13,7 @@ I'm a passionate computer science student at 1337 Coding School pursuing a degre
 Let's code, innovate, and make the digital world a better place together! 👩‍💻👨‍💻
 
 ---
+
 <div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/idabligi" alt="idabligi's 42 stats" /></a></div>
 
 ---
