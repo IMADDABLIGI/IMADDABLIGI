@@ -14,7 +14,7 @@ Let's code, innovate, and make the digital world a better place together! ğŸ‘©â€
 
 ---
 
-<div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/idabligi" alt="idabligi's 42 stats" /></a></div>
+<div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/idabligi" alt="idabligi's 42 stats" /></a></div>
 
 <p align="center">
     <a href="https://twitter.com/dabligi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
