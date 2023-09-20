@@ -6,8 +6,6 @@ I'm a passionate computer science student at 1337 Coding School pursuing a degre
 
 📚 I'm constantly enhancing my skills through hands-on experience and coursework provided by the renowned 42 Network. This immersive learning environment challenges me to solve real-world problems, collaborate with peers, and think critically.
 
-🌟 My aspiration is to become a **Frontend Developer**. I believe in the power of elegant and user-friendly interfaces, and I'm excited to craft delightful web experiences.
-
 🌐 Feel free to explore my repositories and projects to see what I'm currently working on.
 
 Let's code, innovate, and make the digital world a better place together! 👩‍💻👨‍💻
