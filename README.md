@@ -4,11 +4,7 @@ I'm a passionate computer science student at 1337 Coding School pursuing a degre
 
 🚀 Currently exploring programming (C/C++), shell scripting, networking, graphics, and algorithms.
 
-📚 I'm constantly enhancing my skills through hands-on experience and coursework provided by the renowned 42 Network. This immersive learning environment challenges me to solve real-world problems, collaborate with peers, and think critically.
-
 🌐 Feel free to explore my repositories and projects to see what I'm currently working on.
-
-Let's code, innovate, and make the digital world a better place together! 👩‍💻👨‍💻
 
 ---
 
