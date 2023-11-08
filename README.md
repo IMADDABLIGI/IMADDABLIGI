@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Imad 👋</h1>
 
-I'm a passionate computer science student at 1337 Coding School pursuing a degree in Network Computer Science. 🎓
+I'm a passionate computer science student at 1337 Coding School. 🎓
 
 🚀 Currently exploring programming (C/C++), shell scripting, networking, graphics, and algorithms.
 
