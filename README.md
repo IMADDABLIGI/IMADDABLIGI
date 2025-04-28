@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Imad 👋</h1>
+<h1 align="center"> 👋 Hi, I'm Imad — a passionate Junior Frontend Developer. </h1>
 
-I'm a passionate computer science student at 1337 Coding School. 🎓
+🚀 I specialize in building modern web and mobile applications using React, React Native, Tailwind CSS, HTML, and CSS.
 
-🚀 Currently exploring programming (C/C++), shell scripting, networking, graphics, and algorithms.
+🎯 I love turning ideas into beautiful, responsive, and user-friendly interfaces.
 
-🌐 Feel free to explore my repositories and projects to see what I'm currently working on.
+🌐 Feel free to explore my repositories to see my latest projects and growth as a developer!
 
 ---
 
