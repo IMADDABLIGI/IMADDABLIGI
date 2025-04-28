@@ -1,4 +1,6 @@
-<h1 align="center"> 👋 Hi, I'm Imad — a passionate Junior Frontend Developer. </h1>
+<h1 align="center"> 👋 Hi, I'm Imad </h1>
+
+🧑‍💻 I'm a passionate Junior Frontend Developer.
 
 🚀 I specialize in building modern web and mobile applications using React, React Native, Tailwind CSS, HTML, and CSS.
 
